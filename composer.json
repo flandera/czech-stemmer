@@ -1,5 +1,5 @@
 {
-    "name": "x3wil/czech-stemmer",
+    "name": "flandera/czech-stemmer",
     "description": "Port of stemmer for Czech language",
     "license": "MIT",
     "keywords": ["czech", "stemmer"],
