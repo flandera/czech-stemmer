@@ -10,7 +10,7 @@
         }
     ],
     "autoload": {
-        "psr-4": {"x3wil\\": "src/"}
+        "psr-4": {"flandera\\": "src/"}
     },
     "require": {
         "php": ">=5.6.0"
